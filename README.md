@@ -20,13 +20,13 @@ All 3 buttons should have their independent configuration rendered on the screen
 Configurations should be allowed to change on run time
 Configuration of one button should not update the configuration of other buttons
 
-## Screenshot
-![Home.png](Home.png)
-![Task 1.png](Task%201.png)
-![Task 2.png](Task%202.png)
-
 ## Demo Video
 
 Watch the demo video below:
 
 [Demo Video](https://github.com/AkshatAgrawal05/Assigment/blob/master/Demo_Video.mp4)
+
+## Screenshot
+![Home.png](Home.png)
+![Task 1.png](Task%201.png)
+![Task 2.png](Task%202.png)
